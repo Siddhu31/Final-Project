@@ -1,0 +1,72 @@
+{
+     "1": {
+          "Food Name": "Chi. Biryani",
+          "Quantity": 1,
+          "Price": 250,
+          "Stock": 100,
+          "Discount": 5
+     },
+     "2": {
+          "Food Name": "Mutton Biryani",
+          "Quantity": 1,
+          "Price": 450,
+          "Stock": 21,
+          "Discount": 10
+     },
+     "3": {
+          "Food Name": "Chicken 65",
+          "Quantity": 1,
+          "Price": 210,
+          "Stock": 10,
+          "Discount": 2
+     },
+     "4": {
+          "Food Name": "Chicken Manchuria",
+          "Quantity": 1,
+          "Price": 140,
+          "Stock": 12,
+          "Discount": 3
+     },
+     "5": {
+          "Food Name": "Chicken Lollipop",
+          "Quantity": 1,
+          "Price": 220,
+          "Stock": 10,
+          "Discount": 4
+     },
+     "6": {
+          "Food Name": "Chicken Wing Fried",
+          "Quantity": 1,
+          "Price": 220,
+          "Stock": 13,
+          "Discount": 2
+     },
+     "7": {
+          "Food Name": "Pulka",
+          "Quantity": 1,
+          "Price": 10,
+          "Stock": 50,
+          "Discount": 2
+     },
+     "8": {
+          "Food Name": "Butter Naan",
+          "Quantity": 1,
+          "Price": 35,
+          "Stock": 20,
+          "Discount": 3
+     },
+     "9": {
+          "Food Name": "Butter Chi Curry",
+          "Quantity": 1,
+          "Price": 230,
+          "Stock": 10,
+          "Discount": 4
+     },
+     "10": {
+          "Food Name": "Butter Scotch",
+          "Quantity": 1,
+          "Price": 50,
+          "Stock": 10,
+          "Discount": 2
+     }
+}
